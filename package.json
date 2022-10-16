@@ -1,0 +1,11 @@
+{
+  "name": "bug",
+  "version": "1.0.0",
+  "description": "Generate user config files for cactbot with TypeScript",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "vue": "^3.2.41",
+    "typescript": ">=4.8.4"
+  }
+}
